@@ -2,6 +2,8 @@
 
 ## An initiative of 10,000 artificial intelligence engineers from Electro PI company
 
+### Automated_EDA
+
 This Capstone Project involves building an Automated EDA (Exploratory Data Analysis) tool
 that can pre-process and visualize data based on column types using Python. The tool aims to simplify the EDA process by
 automating the pre-processing steps and providing a comprehensive visualization dashboard for each column type.
